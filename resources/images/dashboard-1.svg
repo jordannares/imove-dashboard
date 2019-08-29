@@ -1,0 +1,11 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 298.05 196.41">
+  <title>dashboard</title>
+  <path d="M274.59,243.3H27.36A18.39,18.39,0,0,1,9,224.89V79.29A18.39,18.39,0,0,1,27.36,60.89H274.59A18.39,18.39,0,0,1,293,79.29v145.6A18.51,18.51,0,0,1,274.59,243.3Z" transform="translate(-1.95 -53.89)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="14"/>
+  <line x1="50.87" y1="7.1" x2="50.87" y2="189.41" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="14"/>
+  <line x1="50.87" y1="61.64" x2="290.95" y2="61.64" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="14"/>
+  <path d="M230,161.05a38.52,38.52,0,0,1,31.63,38" transform="translate(-1.95 -53.89)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="14"/>
+  <path d="M184.51,199a38.47,38.47,0,0,1,16.65-31.72" transform="translate(-1.95 -53.89)" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="14"/>
+  <line x1="86.7" y1="109.22" x2="136.64" y2="109.22" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="14"/>
+  <line x1="86.7" y1="144.86" x2="136.64" y2="144.86" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="14"/>
+  <polygon points="223.39 103.15 223.39 145.16 199.79 103.15 223.39 103.15" fill="#fff"/>
+</svg>
